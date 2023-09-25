@@ -13,3 +13,5 @@ else:
 
 donativo = ganancias * (porcentaje / 100)
 print(f"Pablito donará el {porcentaje}% de sus ganancias, es decir, {donativo} soles.")
+
+
